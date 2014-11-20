@@ -1,4 +1,5 @@
-<?xml version="1.0" standalone="yes"?>
+<?xml version="1.0" encoding="UTF-8" ?>
+<kawaly>
 <kawal>
   Ogrodnik widzi jak jego synek pije dużą ilość wody. Pyta go:
   - Synku, dlaczego pijesz tyle wody? Tak bardzo chce ci się pić?
@@ -7,10 +8,11 @@
   - Zapomniałem je przedtem umyć.
 </kawal>
 <kawal>
- Blondynka sp�nia si� do pracy.
-Zdenerwowany szef dzwoni do niej i m�wi:
-- Gdzie Ty jeste�?
-- Jad� do pracy, korek jest
-- A jak d�ugi?
-- Nie wiem, bo jad� pierwsza.
+Blondynka spóźnia się do pracy.
+Zdenerwowany szef dzwoni do niej i mówi:
+- Gdzie Ty jesteś?
+- Jadę do pracy, korek jest
+- A jak długi?
+- Nie wiem, bo jadę pierwsza.
 </kawal>
+</kawaly>
